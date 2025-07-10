@@ -8,10 +8,10 @@ This work was completed as part of the MSBA graduate program to demonstrate deep
 
 ## 📁 Repository Structure
 symphony-by-sequence/
-├── code.ipynb/ # Notebook containing EDA, data processing, and modeling for music generation
-├── music-output/ # Generated outputs from each model
-├── report.pdf/ # Written report detailing purpose, methodology, results, and future work
-├── slide-deck.pdf/ # Presentation deck for data storytelling
+- `code.ipynb`     | Notebook containing EDA, data processing, and modeling for music generation
+- `music-output`   | Generated outputs from each model
+- `report.pdf`     | Written report detailing purpose, methodology, results, and future work
+- `slide-deck.pdf` | Presentation deck for data storytelling
 
 ## 🧠 Methodology
 
